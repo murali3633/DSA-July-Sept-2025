@@ -9,7 +9,7 @@ This repository contains my daily Data Structures and Algorithms practice from J
 | ├── What is DSA?  
 | ├── Time & Space Complexity (Big O notation)  
 | ├── Arrays & Strings Basics  
-| └── Recursion Fundamentals .
+| └── Recursion Fundamentals.
 |  
 |── Linked Lists  
 | ├── Singly Linked List  
